@@ -36,47 +36,10 @@ color:#ea1c26;
  }
 /*********************center_home_end****************/
 
-/*********************Categ****************/
-#Categ{
-padding-top:50px;
-padding-bottom:50px;
- }
-.Categ_1 hr{
-border-color:#ea1c26;
-width:100px;
-margin-left:0;
-border-width:2px; 
- }
-.Categ_2i img{
-float:left;
-margin-right:20px; 
- }
-.Categ_2i {
-border:2px solid #ea1c260f;
-padding:15px; 
- }
-.Categ_2i:hover {
-border:2px solid #ea1c26;
- }
-.Categ_2i h4 {
-margin-top:10px!important;
- }
-.Categ_2{
-margin-top:10px; 
- }
-/*********************Categ_end****************/
 
-/*********************collection****************/
-#collection{
-padding-top:50px;
-padding-bottom:50px; 
-background:#ea1c260f;
- }
-.collect_1l{
-background:#fff;
-padding:30px 10px; 
- }
-/*********************collection_end****************/
+
+
+
 /*********************sell****************/
 #sell{
  padding-top:50px;
@@ -187,92 +150,7 @@ border-width:2px;
 /*********************categories_end****************/
 
 /*********************blog_home****************/
-#blog_home{
-padding-top:50px;
-padding-bottom:50px; 
-background:#ea1c260f;
- }
-.blog_home_1i{
-padding:15px;
-box-shadow: 0 0 10px #ea1c2636;
- }
-.blog_home_1{
-margin-top:10px; 
- }
-/*********************blog_home_end****************/
 
-/*********************connect****************/
-#connect{
-  padding-top:60px;
-  padding-bottom:60px;
-  }
-.connect_1m{
-  display:flex;
-  }
-.connect_1l span{
- font-size:40px;
- color: #ea1c26;
- margin-right:15px;
-  }
-.connect_1r h4{
- margin-top:10px;
- font-size:20px;
-  }
-.connect_1r p{
- margin-top:5px; 
- font-size:16px;
- letter-spacing:0;
-  }
-/*********************connect_end****************/
-@media screen and (max-width : 767px){
-.center_home .hidden-xs{
-display:block!important; 
- }
-.center_home{
-text-align:center;
- }
-.center_home hr{
-margin-left:auto;
- }
-.center_home_r {
-margin-top:15px; 
- }
-#Categ{
-text-align:center;  
- }
-.Categ_2i {
-margin-bottom:10px; 
- }
-.Categ_2i img {
-    float: none;
-    margin-right:0;
-	margin-bottom:10px;
-}
-#collection{
-text-align:center; 
- }
-.collect_1lr {
-margin-top:10px;  
- }
-.collect_1l {
-margin-top:10px; 
- }
-#sell{
-text-align:center;  
- }
-#sell_n{
-text-align:center;  
- }
-#blog_home{
-text-align:center; 
- }
-.blog_home_1i{
-margin-bottom:10px; 
- }
-.sell_1_or {
-text-align:center; 
- }
-}
 
 @media (min-width:768px) and (max-width:991px) {
 .center_home_l h1{
